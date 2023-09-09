@@ -6,11 +6,10 @@
                     <div class="col-lg-4 mr-auto col-sm-6">
                         <div class="widget mb-5 mb-lg-0">
                         <div class="logo mb-4">
-                            <img src="../../assets/images/logo.png" alt="" class="img-fluid" />
+                            <img src="../../assets/images/alyusr-logo.png" alt="" class="img-fluid" />
                         </div>
                         <p>
-                            Tempora dolorem voluptatum nam vero assumenda voluptate, facilis
-                            ad eos obcaecati tenetur veritatis eveniet distinctio possimus.
+                            A manpower agency specializes in connecting businesses with skilled and qualified individuals, streamlining the recruitment process for both employers and job seekers.
                         </p>
 
                         <ul class="list-inline footer-socials mt-4">
@@ -35,15 +34,16 @@
 
                     <div class="col-lg-2 col-md-6 col-sm-6">
                         <div class="widget mb-5 mb-lg-0">
-                        <h4 class="text-capitalize mb-3">Department</h4>
+                        <h4 class="text-capitalize mb-3">Manpower Services</h4>
                         <div class="divider mb-4"></div>
 
                         <ul class="list-unstyled footer-menu lh-35">
-                            <li><a href="#!">Surgery </a></li>
-                            <li><a href="#!">Wome's Health</a></li>
-                            <li><a href="#!">Radiology</a></li>
-                            <li><a href="#!">Cardioc</a></li>
-                            <li><a href="#!">Medicine</a></li>
+                            <li><a href="#!">Nurse</a></li>
+                            <li><a href="#!">Barista</a></li>
+                            <li><a href="#!">Florist</a></li>
+                            <li><a href="#!">Waiter</a></li>
+                            <li><a href="#!">Cleaner</a></li>
+                            <li><a href="#!">Massage</a></li>
                         </ul>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                             <span class="h6 mb-0">Support Available for 24/7</span>
                             </div>
                             <h4 class="mt-2">
-                            <a href="mailto:support@email.com">Support@email.com</a>
+                            <a href="mailto:alyusrcb12@outlook.com">alyusrcb12@outlook.com</a>
                             </h4>
                         </div>
 
@@ -84,7 +84,10 @@
                             <span class="h6 mb-0">Mon to Fri : 08:30 - 18:00</span>
                             </div>
                             <h4 class="mt-2">
-                            <a href="tel:+23-345-67890">+23-456-6588</a>
+                                <a href="tel:+966 54 482 4778">+966 54 482 4778</a>
+                            </h4>
+                            <h4 class="mt-2">
+                                <a href="tel:+966 55 224 4119">+966 55 224 4119</a>
                             </h4>
                         </div>
                         </div>
@@ -100,19 +103,7 @@
                     </div>
                     </div>
                     <div class="col-lg-6">
-                    <div class="subscribe-form text-lg-right mt-5 mt-lg-0">
-                        <form action="#" class="subscribe">
-                        <input
-                            type="text"
-                            class="form-control"
-                            placeholder="Your Email address"
-                            required
-                        />
-                        <button type="submit" class="btn btn-main-2 btn-round-full">
-                            Subscribe
-                        </button>
-                        </form>
-                    </div>
+                    
                     </div>
                 </div>
 

@@ -7,14 +7,12 @@
               <div class="block">
                 <div class="divider mb-3"></div>
                 <span class="text-uppercase text-sm letter-spacing"
-                  >Total Health care solution</span
+                  >We are providing</span
                 >
-                <h1 class="mb-3 mt-3">Your most trusted health partner</h1>
+                <h1 class="mb-3 mt-3">Manpower Services</h1>
 
                 <p class="mb-4 pr-5">
-                  A repudiandae ipsam labore ipsa voluptatum quidem quae
-                  laudantium quisquam aperiam maiores sunt fugit, deserunt rem
-                  suscipit placeat.
+                  A manpower agency specializes in connecting businesses with skilled and qualified individuals, streamlining the recruitment process for both employers and job seekers.
                 </p>
                 <div class="btn-container">
                   <a

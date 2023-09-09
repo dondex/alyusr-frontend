@@ -7,13 +7,12 @@
                 <div class="feature-block d-lg-flex">
                     <div class="feature-item mb-5 mb-lg-0">
                     <div class="feature-icon mb-4">
-                        <i class="icofont-surgeon-alt"></i>
+                        <i class="icofont-contacts"></i>
                     </div>
                     <span>24 Hours Service</span>
-                    <h4 class="mb-3">Online Appoinment</h4>
+                    <h4 class="mb-3">Online Appointment</h4>
                     <p class="mb-4">
-                        Get ALl time support for emergency.We have introduced the
-                        principle of family medicine.
+                        Our manpower agency is dedicated to providing round-the-clock support, ensuring that you can reach out to us 24/7 for all your staffing needs.
                     </p>
                     <a href="appoinment.html" class="btn btn-main btn-round-full"
                         >Make a appoinment</a
@@ -43,12 +42,10 @@
                     <div class="feature-icon mb-4">
                         <i class="icofont-support"></i>
                     </div>
-                    <span>Emegency Cases</span>
-                    <h4 class="mb-3">1-800-700-6200</h4>
+                    <span>Direct Call</span>
+                    <h4 class="mb-3">+966 54 397 1988</h4>
                     <p>
-                        Get ALl time support for emergency.We have introduced the
-                        principle of family medicine.Get Conneted with us for any
-                        urgency .
+                        We offer the convenience of direct calls for phone consultations, ensuring seamless communication between our clients and our manpower agency.At our manpower agency, we prioritize accessibility by providing direct phone consultations to address your staffing needs promptly and effectively.
                     </p>
                     </div>
                 </div>

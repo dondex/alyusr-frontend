@@ -128,15 +128,15 @@ input[type="tel"]:focus {
   border-color: #223a66 !important;
 }
 .btn-main:hover {
-  background: #e12454 !important;
-  border-color: #e12454 !important;
+  background: #30bbd2 !important;
+  border-color: #30bbd2 !important;
   color: #fff !important;
 }
 
 .btn-main-2 {
-  background: #e12454 !important;
+  background: #30bbd2 !important;
   color: #fff !important;
-  border-color: #e12454 !important;
+  border-color: #30bbd2 !important;
 }
 .btn-main-2:hover {
   background: #223a66 !important;
@@ -305,7 +305,7 @@ a {
 
 a:focus,
 a:hover {
-  color: #e12454 !important;
+  color: #30bbd2 !important;
   text-decoration: none !important;
 }
 
@@ -390,7 +390,7 @@ a:focus {
 }
 #navbarmain .nav-link:hover,
 #navbarmain .active .nav-link {
-  color: #e12454 !important;
+  color: #30bbd2 !important;
 }
 
 .dropdown-toggle::after {
@@ -399,6 +399,10 @@ a:focus {
 
 .navbar-brand {
   margin-top: 10px !important;
+}
+.navbar-brand img {
+  width: 100%;
+  height: 100px;
 }
 
 .header-top-bar {
@@ -433,7 +437,7 @@ a:focus {
 .navigation .dropdown-menu {
   padding: 0px;
   border: 0px;
-  border-top: 5px solid #e12454;
+  border-top: 5px solid #30bbd2;
   background: #fff;
   border-radius: 0px;
 }
@@ -484,7 +488,7 @@ a:focus {
 .navigation .dropdown-item.active,
 .navigation .dropdown-item:hover {
   background: rgba(225, 36, 84, 0.05);
-  color: #e12454;
+  color: #30bbd2;
 }
 .navigation button:focus {
   outline: 0;
@@ -524,8 +528,9 @@ a:focus {
   position: relative;
   overflow: hidden;
   background: #fff;
-  background: url("./images/bg/slider-bg-1.jpg") no-repeat;
+  background: url("./images/bg/home-7.jpg") no-repeat;
   background-size: cover;
+  background-position: center 10%;
   min-height: 550px !important;
 }
 .banner .block {
@@ -548,13 +553,13 @@ a:focus {
 }
 
 .text-color-2 {
-  color: #e12454 !important;
+  color: #30bbd2 !important;
 }
 
 .divider {
   width: 40px !important;
   height: 5px !important;
-  background: #e12454 !important;
+  background: #30bbd2 !important;
 }
 
 @media (max-width: 480px) {
@@ -716,7 +721,7 @@ a:focus {
   margin-bottom: 10px !important;
 }
 .service i {
-  color: #e12454 !important;
+  color: #30bbd2 !important;
 }
 .service h4 {
   padding-left: 20px !important;
@@ -744,7 +749,7 @@ a:focus {
   margin-bottom: 10px !important;
 }
 .department-service li i {
-  color: #e12454 !important;
+  color: #30bbd2 !important;
 }
 
 .doctors .btn-group .btn {
@@ -758,7 +763,7 @@ a:focus {
 .doctors .btn-group .btn.active {
   box-shadow: none !important;
   border-color: transparent !important;
-  background: #e12454 !important;
+  background: #30bbd2 !important;
   color: #fff !important;
 }
 .doctors .btn-group .btn.focus {
@@ -768,13 +773,13 @@ a:focus {
 .doctors .btn-group .btn:focus {
   box-shadow: none !important;
   border-color: transparent !important;
-  background: #e12454 !important;
+  background: #30bbd2 !important;
   color: #fff !important;
 }
 .doctors .btn-group .btn:hover {
   box-shadow: none !important;
   border-color: transparent !important;
-  background: #e12454 !important;
+  background: #30bbd2 !important;
   color: #fff !important;
 }
 .doctors .btn-group > .btn-group:not(:last-child) > .btn,
@@ -808,7 +813,7 @@ a:focus {
 }
 .doctor-info li i {
   margin-right: 20px;
-  color: #e12454;
+  color: #30bbd2;
 }
 
 .read-more {
@@ -839,12 +844,12 @@ a:focus {
     margin: 8px 3px;
   }
 }
-.cta {
-  background: url("../assets/images/bg/bg-4.jpg") no-repeat 50% 50%;
+/* .cta {
+  background: url("../assets/images/alyusr4.jpg") no-repeat 50% 50%;
   background-size: cover;
   position: relative;
-}
-.cta:before {
+} */
+/* .cta:before {
   position: absolute;
   content: "";
   left: 0px;
@@ -852,7 +857,7 @@ a:focus {
   width: 100%;
   height: 100%;
   background: rgba(34, 58, 102, 0.95);
-}
+} */
 
 .mb-30 {
   margin-bottom: 30px;
@@ -946,7 +951,7 @@ a:focus {
 }
 .testimonial-block.style-2 i {
   bottom: -20px !important;
-  color: #e12454 !important;
+  color: #30bbd2 !important;
   opacity: 0.3 !important;
 }
 
@@ -1033,7 +1038,7 @@ a:focus {
   font-size: 50px;
   margin-bottom: 15px;
   display: inline-block;
-  color: #e12454;
+  color: #30bbd2;
 }
 
 .blog-item-content h2 {
@@ -1085,7 +1090,7 @@ a:focus {
   color: #223a66;
   padding: 40px;
   font-style: italic;
-  border-left: 5px solid #e12454;
+  border-left: 5px solid #30bbd2;
   margin: 25px 0px;
 }
 
@@ -1270,7 +1275,7 @@ a:focus {
   bottom: 0px;
   width: 35px;
   height: 3px;
-  background: #e12454;
+  background: #30bbd2;
 }
 .sidebar-widget.latest-post .media img {
   border-radius: 7px;
@@ -1365,7 +1370,7 @@ a:focus {
   color: #6f8ba4;
 }
 .widget .footer-menu a:hover {
-  color: #e12454;
+  color: #30bbd2;
 }
 
 .footer-contact-block span {
@@ -1384,7 +1389,7 @@ a:focus {
   width: 45px;
   height: 45px;
   background: #6f8ba4;
-  color: #fff;
+  color: #fff !important;
   display: inline-block;
   text-align: center;
   border-radius: 100%;
@@ -1396,7 +1401,7 @@ a:focus {
   margin-bottom: 18px;
 }
 .widget-contact h6 i {
-  color: #e12454;
+  color: #30bbd2;
 }
 
 .subscribe {
@@ -1444,7 +1449,7 @@ a:focus {
   }
 }
 .backtop:hover {
-  background-color: #e12454;
+  background-color: #30bbd2;
 }
 .backtop i {
   color: #fff;

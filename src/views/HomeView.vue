@@ -4,9 +4,9 @@
       <Features />
       <AboutSection />
       <CtaSection />
-      <ServiceSection />
-      <Appointment />
-      <Testimonial />
+      <Partnership />
+      <Achievements />
+      <Legality/>
     </div>
 </template>
 
@@ -15,7 +15,8 @@ import Banner from '../components/Banner.vue';
 import Features from '../components/Features.vue'
 import AboutSection from '../components/AboutSection.vue';
 import CtaSection from '../components/CtaSection.vue';
-import ServiceSection from '../components/ServiceSection.vue';
-import Appointment from '../components/Appointment.vue';
-import Testimonial from '../components/Testimonial.vue';
+import Partnership from '../components/Partnership.vue';
+import Achievements from '../components/Achievements.vue';
+import Legality from '../components/Legality.vue';
+
 </script>
