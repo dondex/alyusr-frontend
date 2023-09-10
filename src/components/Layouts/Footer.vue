@@ -11,6 +11,7 @@
                         <p>
                             A manpower agency specializes in connecting businesses with skilled and qualified individuals, streamlining the recruitment process for both employers and job seekers.
                         </p>
+                        <a style="text-decoration: underline !important;" href="#!">Company Licence</a>
 
                         <ul class="list-inline footer-socials mt-4">
                             <li class="list-inline-item">
@@ -50,15 +51,17 @@
 
                     <div class="col-lg-2 col-md-6 col-sm-6">
                         <div class="widget mb-5 mb-lg-0">
-                        <h4 class="text-capitalize mb-3">Support</h4>
+                        <h4 class="text-capitalize mb-3">More Services</h4>
                         <div class="divider mb-4"></div>
 
                         <ul class="list-unstyled footer-menu lh-35">
-                            <li><a href="#!">Terms & Conditions</a></li>
-                            <li><a href="#!">Privacy Policy</a></li>
-                            <li><a href="#!">Company Support </a></li>
-                            <li><a href="#!">FAQuestions</a></li>
-                            <li><a href="#!">Company Licence</a></li>
+                            <li><a href="#!">Doctor</a></li>
+                            <li><a href="#!">Engineer</a></li>
+                            <li><a href="#!">Chef</a></li>
+                            <li><a href="#!">Medical Home Care</a></li>
+                            <li><a href="#!">Gas Maintenance</a></li>
+                            <li><a href="#!">Porter Chamber Maid</a></li>
+                            
                         </ul>
                         </div>
                     </div>
@@ -74,21 +77,29 @@
                             <span class="h6 mb-0">Support Available for 24/7</span>
                             </div>
                             <h4 class="mt-2">
-                            <a href="mailto:alyusrcb12@outlook.com">alyusrcb12@outlook.com</a>
+                                <a href="mailto:admin@alyusr.website">admin@alyusr.website</a>
+                            </h4>
+                            <h4 class="mt-2">
+                                <a href="mailto:omar@alyusr.website">omar@alyusr.website</a>
+                            </h4>
+                            <h4 class="mt-2">
+                                <a href="mailto:amash@alyusr.website">amash@alyusr.website</a>
                             </h4>
                         </div>
 
                         <div class="footer-contact-block">
+                            <div class="icon d-flex align-items-center mb-2">
+                                <i class="icofont-support mr-3"></i>
+                                <span class="h6 mb-0">Sun to Thurs : 08:00am - 6:00pm</span>
+                            </div>
                             <div class="icon d-flex align-items-center">
-                            <i class="icofont-support mr-3"></i>
-                            <span class="h6 mb-0">Mon to Fri : 08:30 - 18:00</span>
+                                <i class="icofont-support mr-3"></i>
+                                <span class="h6 mb-0">Saturday : 08:00am - 6:00pm</span>
                             </div>
                             <h4 class="mt-2">
-                                <a href="tel:+966 54 482 4778">+966 54 482 4778</a>
+                                <a href="tel:+966544824778">+966544824778</a>
                             </h4>
-                            <h4 class="mt-2">
-                                <a href="tel:+966 55 224 4119">+966 55 224 4119</a>
-                            </h4>
+                            
                         </div>
                         </div>
                     </div>

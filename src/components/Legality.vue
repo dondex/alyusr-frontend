@@ -20,6 +20,11 @@
                         <img style="object-fit: contain; height: 450px;" class="img-fluid" src="../assets/images/legal2.png" alt="">
                     </div>
                 </div>
+                <div class="row py-5">
+                    <div class="col-md-12 text-center">
+                        <img style="object-fit: contain; height: 550px;" class="img-fluid" src="../assets/images/legal3.png" alt="">
+                    </div>
+                </div>
                 <div class="row pt-3">
                     <div class="col-md-3">
                         <a
