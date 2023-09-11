@@ -11,7 +11,7 @@
                 >
                 <h1 class="mb-3 mt-3">Manpower Services</h1>
 
-                <p class="mb-4 pr-5">
+                <p class="mb-4 pr-5 fs-5">
                   A manpower agency specializes in connecting businesses with skilled and qualified individuals, streamlining the recruitment process for both employers and job seekers.
                 </p>
                 <div class="btn-container">
@@ -19,7 +19,7 @@
                     href="appoinment.html"
                     target="_blank"
                     class="btn btn-main-2 btn-icon btn-round-full"
-                    >Make appoinment <i class="icofont-simple-right ml-2"></i
+                    >Make appointment <i class="icofont-simple-right ml-2"></i
                   ></a>
                 </div>
               </div>

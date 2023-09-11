@@ -3,7 +3,7 @@
         <section class="cta-section">
             <div class="container">
                 <div class="row">
-                    <img style="object-fit: cover; object-position: center 25%; height: 550px;" class="img-fluid" src="../assets/images/bg/manpower.jpg" alt="">
+                    <img style="object-fit: cover; object-position: center 25%; height: 650px;" class="img-fluid" src="../assets/images/bg/a4pro.png" alt="">
                 </div>
             </div>
         </section>

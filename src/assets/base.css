@@ -262,7 +262,7 @@ input[type="tel"]:focus {
   width: 100% !important;
   height: 100% !important;
   opacity: 0.9 !important;
-  background: #223a66 !important;
+  background: #30bbd2 !important;
 }
 
 .overly-2 {
@@ -528,10 +528,10 @@ a:focus {
   position: relative;
   overflow: hidden;
   background: #fff;
-  background: url("./images/bg/home-7.jpg") no-repeat;
+  background: url("./images/bg/hero1.jpg") no-repeat;
   background-size: cover;
-  background-position: center 10%;
-  min-height: 550px !important;
+  background-position: center 40%;
+  min-height: 750px !important;
 }
 .banner .block {
   padding: 80px 0px 160px !important;
@@ -740,6 +740,7 @@ a:focus {
   width: 100% !important;
   margin-top: -60px !important;
   border: 5px solid #fff !important;
+  height: 250px;
 }
 
 .department-service {
@@ -877,22 +878,29 @@ a:focus {
 }
 
 .cta-page {
-  background: url("../images/bg/banner.jpg") no-repeat;
+  background: url("../assets/images/service/service-pic1.jpg") no-repeat;
+  /* background-position: 120%; */
+  background-position: center 20%;
+  height: 80vh;
   background-size: cover;
   position: relative;
+}
+.cta-content {
+  margin-top: 25%;
+  background-color: rgba(56, 56, 56, 0.5);
 }
 
 .testimonial {
   position: relative !important;
 }
 .testimonial:before {
-  width: 48% !important;
+  width: 58% !important;
   height: 100% !important;
   top: 0 !important;
   left: 0px !important;
   position: absolute !important;
   content: "" !important;
-  background: url("../assets/images/bg/bg-2.jpg") no-repeat 50% 50% !important;
+  background: url("../assets/images/about/about.png") no-repeat 50% 50% !important;
 }
 .testimonial .slick-dots {
   text-align: left !important;
@@ -1462,3 +1470,8 @@ a:focus {
   opacity: 1;
 }
 /*# sourceMappingURL=style.css.map */
+
+.about-feature-page img {
+  height: 350px;
+  object-fit: cover;
+}

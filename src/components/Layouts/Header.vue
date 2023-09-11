@@ -34,18 +34,17 @@
 
                     <div class="collapse navbar-collapse" id="navbarmain">
                         <ul class="navbar-nav ms-auto">
-                            <li class="nav-item active"><a class="nav-link" href="/">Home</a></li>
+                            <li class="nav-item active"><router-link class="nav-link" to="/">Home</router-link></li>
                             
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" id="dropdown02" data-toggle="dropdown"
+                                <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="false">About Us <i class="icofont-thin-down"></i></a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdown02">
-                                    <li><a class="dropdown-item" href="">Collaboration</a></li>
-                                    <li><a class="dropdown-item" href="">Legality</a></li>
-                            
+                                    <li><router-link class="dropdown-item" to="/about">About Al Yusr</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/legality">Legality</router-link></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"><a class="nav-link" href="">Services</a></li>
+                            <li class="nav-item"><router-link class="nav-link" to="/services">Services</router-link></li>
 
                             <!-- <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="department.html" id="dropdown02" data-toggle="dropdown"
@@ -65,9 +64,9 @@
                                 </ul>
                             </li> -->
 
-                            <li class="nav-item"><a class="nav-link" href="">Mission & Vision</a></li>
-                            <li class="nav-item"><a class="nav-link" href="">Partnership</a></li>
+                            
                             <li class="nav-item"><a class="nav-link" href="">Achievements</a></li>
+                            <li class="nav-item"><a class="nav-link" href="">Gallery</a></li>
                             <li class="nav-item"><a class="nav-link" href="">Contact</a></li>
                         </ul>
                     </div>

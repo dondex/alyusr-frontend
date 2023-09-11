@@ -27,11 +27,11 @@
                 </div>
                 <div class="row pt-3">
                     <div class="col-md-3">
-                        <a
-                        href=""
+                        <router-link
+                        to="/legality"
                         class="btn btn-main-2 btn-icon btn-round-full"
                         >Legality<i class="icofont-simple-right ml-3"></i
-                        ></a>
+                        ></router-link>
                     </div>
                     
                 </div>

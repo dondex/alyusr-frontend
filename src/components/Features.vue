@@ -14,8 +14,8 @@
                     <p class="mb-4">
                         Our manpower agency is dedicated to providing round-the-clock support, ensuring that you can reach out to us 24/7 for all your staffing needs.
                     </p>
-                    <a href="appoinment.html" class="btn btn-main btn-round-full"
-                        >Make a appoinment</a
+                    <a href="" class="btn btn-main btn-round-full"
+                        >Make a appointment</a
                     >
                     </div>
 
@@ -41,7 +41,7 @@
                         <i class="icofont-support"></i>
                     </div>
                     <span>Direct Call</span>
-                    <h4 class="mb-3">+966 54 397 1988</h4>
+                    <h4 class="mb-3">+966544824778</h4>
                     <p>
                         We offer the convenience of direct calls for phone consultations, ensuring seamless communication between our clients and our manpower agency.At our manpower agency, we prioritize accessibility by providing direct phone consultations to address your staffing needs promptly and effectively.
                     </p>

@@ -5,27 +5,28 @@
                 <div class="row align-items-center">
                 <div class="col-lg-4 col-sm-6">
                     <div class="about-img">
-                    <img src="../assets/images/about/ofw3.jpg" alt="" class="img-fluid" />
-                    <img src="../assets/images/about/ofw2.jpg" alt="" class="img-fluid mt-4" />
+                    <img style="height: 350px; object-fit: cover" src="../assets/images/about/ofw3.jpg" alt="" class="img-fluid" />
+                    <img style="height: 350px; object-fit: cover" src="../assets/images/about/ofw2.jpg" alt="" class="img-fluid mt-4" />
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <div class="about-img mt-4 mt-lg-0">
-                    <img src="../assets/images/about/ofw1.jpg" alt="" class="img-fluid" />
+                    <img style="height: 350px; object-fit: cover" src="../assets/images/about/ofw1.jpg" alt="" class="img-fluid" />
+                    <img style="height: 350px; object-fit: cover" src="../assets/images/about/chef.jpg" alt="" class="img-fluid pt-3" />
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="about-content pl-4 mt-4 mt-lg-0">
                     <h2 class="title-color">About Us</h2>
                     <p class="mt-4 mb-5">
-                        At Al Yusr, we are your trusted partner in workforce solutions. With a rich history of successfully connecting businesses with top-tier talent and assisting job seekers in finding their dream careers, we bring expertise and dedication to every staffing challenge. Our team of experienced professionals is committed to understanding your unique requirements and delivering customized workforce solutions that drive success.
+                        We are providing manpower services with professional skills and training.we are dedicated to connecting businesses with highly skilled professionals who have undergone rigorous training, ensuring seamless workforce solutions that drive success.
                     </p>
 
-                    <a
-                        href="service.html"
+                    <router-link
+                        to="/about"
                         class="btn btn-main-2 btn-icon btn-round-full"
-                        >Services<i class="icofont-simple-right ml-3"></i
-                    ></a>
+                        >About<i class="icofont-simple-right ml-3"></i
+                    ></router-link>
                     </div>
                 </div>
                 </div>
