@@ -62,7 +62,7 @@
 
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="service-block mb-5">
-                            <img src="../assets/images/service/coop.jpg" alt="" class="img-fluid">
+                            <img style="object-fit: cover;" src="../assets/images/service/coop.jpg" alt="" class="img-fluid">
                             <div class="content">
                                 <h4 class="mt-4 mb-2  title-color">Community</h4>
                                 <p class="mb-4">We support our non profit clients and charitable organizations through our work</p>
@@ -72,7 +72,7 @@
                     
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="service-block mb-5">
-                            <img src="../assets/images/service/collab2.jpg" alt="" class="img-fluid">
+                            <img style="object-fit: cover;" src="../assets/images/service/collab2.jpg" alt="" class="img-fluid">
                             <div class="content">
                                 <h4 class="mt-4 mb-2 title-color">Collaboration</h4>
                                 <p class="mb-4">We work as team! We share knowledge, experience and leverage continous improvement for learning</p>

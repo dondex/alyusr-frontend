@@ -41,28 +41,28 @@
             <div class="about-block-item mb-5 mb-lg-0">
               <img src="../assets/images/about/bartender.jpg" alt="" class="img-fluid w-100">
               <h4 class="mt-3">Barista</h4>
-              <p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+              <p>A Barista is a professional who makes and serves bevarages such as cofee, tea and specialty beverages. They are responsible for taking customer orders and payments. They also clean and sanitize their work areas, seating and equipment/tools.</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
             <div class="about-block-item mb-5 mb-lg-0">
               <img src="../assets/images/about/nurse.jpg" alt="" class="img-fluid w-100">
               <h4 class="mt-3">Nurse</h4>
-              <p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+              <p>Assessing , observing ,and speaking to patients. Recording details and symptoms of patients medical history and current health.Preparing patients for exams and treatment.Administering medication and treatments then monitoring patients for side effects and reactions.</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
             <div class="about-block-item mb-5 mb-lg-0">
               <img src="../assets/images/about/waiter1.jpg" alt="" class="img-fluid w-100">
               <h4 class="mt-3">Waiter</h4>
-              <p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+              <p>Is a professional who works in restaurants, bars, hotels and other food-serving and drinking establishments. They ensurer guests have an excellent dining experience by providing stellar customer service. They great guests, take meal.</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
             <div class="about-block-item">
               <img src="../assets/images/about/waitress.jpg" alt="" class="img-fluid w-100">
               <h4 class="mt-3">Waitress</h4>
-              <p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+              <p>Is a professional who works in restaurants, bars, hotels and other food-serving and drinking establishments. They ensurer guests have an excellent dining experience by providing stellar customer service. They great guests, take meal.</p>
             </div>
           </div>
         </div>
@@ -71,18 +71,22 @@
             <div class="about-block-item mb-5 mb-lg-0">
               <img src="../assets/images/about/cleaner.jpg" alt="" class="img-fluid w-100">
               <h4 class="mt-3">Cleaner</h4>
-              <p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+              <p>Provide all of these things and what's more, Blue Arrow ecruits Cleaners for Sodexo to fulfil roles in some of the largest hospitals in the Kingdom including Military Infirmary, Al Habib Hospital and Saudi German Hospital etc.</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
             <div class="about-block-item mb-5 mb-lg-0">
               <img src="../assets/images/about/massage1.jpg" alt="" class="img-fluid w-100">
               <h4 class="mt-3">Massage</h4>
-              <p>Voluptate aperiam esse possimus maxime repellendus, nihil quod accusantium .</p>
+              <p>Perform salon assistant duties to assist hairr stylist and cosmetologists. Perform haircuts, wash, blow dry and give a stylish look. Provide hair treatment to customers. Sweep, sanitize and disinfect the salon premises on a daily basis. Update customers on current beauty products and items.</p>
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
-            
+            <div class="about-block-item mb-5 mb-lg-0">
+              <img src="../assets/images/about/engr1.png" alt="" class="img-fluid w-100">
+              <h4 class="mt-3">Engineer</h4>
+              <p>We are looking for an innovative, dedicated engineer who has a broad and general fascination with the engineering science and who follows international engineering trend's and technologies.The engineer's responsibilities include defining problems, researching, interpreting and applying information, developing solutions, and making decisions.</p>
+            </div>
           </div>
           <div class="col-lg-3 col-md-6">
            
@@ -90,9 +94,6 @@
         </div>
       </div>
     </section>
-    
-
-  
 
   <section class="section testimonial">
     <div class="container">

@@ -41,7 +41,7 @@
                         <i class="icofont-support"></i>
                     </div>
                     <span>Direct Call</span>
-                    <h4 class="mb-3">+966544824778</h4>
+                    <h4 class="mb-3">+966533416292</h4>
                     <p>
                         We offer the convenience of direct calls for phone consultations, ensuring seamless communication between our clients and our manpower agency.At our manpower agency, we prioritize accessibility by providing direct phone consultations to address your staffing needs promptly and effectively.
                     </p>

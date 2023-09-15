@@ -12,9 +12,9 @@
                         </div>
                         <div class="col-lg-6 ">
                             <div class="text-lg-right top-right-bar  mt-2 mt-lg-0 ">
-                                <a href="tel:+966544824778">
+                                <a href="tel:+966533416292">
                                     <span>Call Now : </span>
-                                    <span class="h4 text-white">+966544824778</span>
+                                    <span class="h4 text-white">+966533416292</span>
                                 </a>
                             </div>
                         </div>
@@ -63,11 +63,8 @@
                                     </li>
                                 </ul>
                             </li> -->
-
-                            
-                            <li class="nav-item"><a class="nav-link" href="">Achievements</a></li>
-                            <li class="nav-item"><a class="nav-link" href="">Gallery</a></li>
-                            <li class="nav-item"><a class="nav-link" href="">Contact</a></li>
+                            <li class="nav-item"><router-link class="nav-link" to="/gallery">Gallery</router-link></li>
+                            <li class="nav-item"><router-link class="nav-link" to="/contact">Contact</router-link></li>
                         </ul>
                     </div>
                 </div>

@@ -97,7 +97,7 @@
                                 <span class="h6 mb-0">Saturday : 08:00am - 6:00pm</span>
                             </div>
                             <h4 class="mt-2">
-                                <a href="tel:+966544824778">+966544824778</a>
+                                <a href="tel:+966533416292">+966533416292</a>
                             </h4>
                             
                         </div>

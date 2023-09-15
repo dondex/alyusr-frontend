@@ -58,6 +58,18 @@
                         <img class="img-fluid" src="../assets/images/partner/part7.png" alt="">
                     </div>
                 </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="service-item mb-4">
+                        <img class="img-fluid" src="../assets/images/partner/partner1.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="service-item mb-4">
+                        <img class="img-fluid" src="../assets/images/partner/partner2.jpg" alt="">
+                    </div>
+                </div>
                 </div>
             </div>
         </section>
