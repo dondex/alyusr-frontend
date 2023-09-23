@@ -12,7 +12,7 @@ const app = createApp(App)
 
 axios.defaults.baseURL = 'http://portal.yaramay.com';
 
-app.config.globalProperties.agencyId = '9a31997f-aba0-45df-8415-4cecb49d576d'; // change this for specific agency
+app.config.globalProperties.agencyId = '9a340589-328a-4e3b-971a-a8f4056e83ae'; // change this for specific agency
 
 app.use(router, axios, VueSweetalert2)
 
