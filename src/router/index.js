@@ -5,6 +5,8 @@ import LegalityView from "../views/LegalityView.vue";
 import ServicesView from "../views/ServicesView.vue";
 import GalleryView from "../views/GalleryView.vue";
 import ContactView from "../views/ContactView.vue";
+import ApplicationView from "../views/ApplicationView.vue";
+import InquireView from "../views/InquireView.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -38,6 +40,16 @@ const router = createRouter({
       path: "/contact",
       name: "contact",
       component: ContactView,
+    },
+    {
+      path: "/application",
+      name: "application",
+      component: ApplicationView,
+    },
+    {
+      path: "/inquire",
+      name: "inquire",
+      component: InquireView,
     },
   ],
 });
