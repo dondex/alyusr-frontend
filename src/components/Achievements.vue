@@ -25,7 +25,7 @@
                     </div>
                     <div class="col-lg-4 col-sm-6">
                         <div class="about-img mt-4 mt-lg-0">
-                        <img style="object-fit: cover; height: 450px;" src="../assets/images/achievements/achievement.jpg" alt="" class="img-fluid" />
+                        <img style="object-fit: cover; height: 450px;" src="../assets/images/achievements/ach8.jpg" alt="" class="img-fluid" />
                         </div>
                     </div>
                     

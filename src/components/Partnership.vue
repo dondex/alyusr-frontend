@@ -70,6 +70,26 @@
                         <img class="img-fluid" src="../assets/images/partner/partner2.jpg" alt="">
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="service-item mb-4">
+                        <img class="img-fluid" src="../assets/images/partner/partner3.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="service-item mb-4">
+                        <img class="img-fluid" src="../assets/images/partner/partner4.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="service-item mb-4">
+                        <img class="img-fluid" src="../assets/images/partner/partner5.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="service-item mb-4">
+                        <img class="img-fluid" src="../assets/images/partner/partner6.jpg" alt="">
+                    </div>
+                </div>
                 </div>
             </div>
         </section>
