@@ -7,6 +7,7 @@ import GalleryView from "../views/GalleryView.vue";
 import ContactView from "../views/ContactView.vue";
 import ApplicationView from "../views/ApplicationView.vue";
 import InquireView from "../views/InquireView.vue";
+import ViewJobs from "../views/jobs/ViewJobs.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -50,6 +51,11 @@ const router = createRouter({
       path: "/inquire",
       name: "inquire",
       component: InquireView,
+    },
+    {
+      path: "/jobs",
+      name: "jobs",
+      component: ViewJobs,
     },
   ],
 });

@@ -45,7 +45,7 @@
                             </div>
                             <div class="col-12 mt-2">
                                 <label>Cover Letter</label>
-                                <textarea class="form-control" v-model="cover_letter"></textarea>
+                                <textarea class="form-control" rows="10" v-model="cover_letter"></textarea>
                             </div>
                             <div class="col-12 mt-3">
                                 <button type="button" class="btn btn-success w-100" v-on:click="submit">Submit</button>
