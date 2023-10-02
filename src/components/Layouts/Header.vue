@@ -63,7 +63,19 @@
                                     </li>
                                 </ul>
                             </li> -->
-                            <li class="nav-item"><router-link class="nav-link" to="/gallery">Gallery</router-link></li>
+                            <!-- <li class="nav-item"><router-link class="nav-link" to="/gallery">Gallery</router-link></li> -->
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown"
+                                    aria-haspopup="true" aria-expanded="false">Gallery <i class="icofont-thin-down"></i></a>
+                                <ul class="dropdown-menu" aria-labelledby="dropdown02">
+                                    <li><router-link class="dropdown-item" to="/gallery">All</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/achievements">Achievements</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/events">Events</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/staff">Staff</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/office">Office</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/others">Others</router-link></li>
+                                </ul>
+                            </li>
                             <li class="nav-item"><router-link class="nav-link" to="/contact">Contact</router-link></li>
                         </ul>
                     </div>

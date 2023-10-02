@@ -7,6 +7,11 @@ import GalleryView from "../views/GalleryView.vue";
 import ContactView from "../views/ContactView.vue";
 import ApplicationView from "../views/ApplicationView.vue";
 import InquireView from "../views/InquireView.vue";
+import AchivementsView from "../views/AchivementsView.vue";
+import EventsView from "../views/EventsView.vue";
+import StaffView from "../views/StaffView.vue";
+import OfficeView from "../views/OfficeView.vue";
+import OthersView from "../views/OthersView.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -50,6 +55,31 @@ const router = createRouter({
       path: "/inquire",
       name: "inquire",
       component: InquireView,
+    },
+    {
+      path: "/achievements",
+      name: "achievements",
+      component: AchivementsView,
+    },
+    {
+      path: "/events",
+      name: "events",
+      component: EventsView,
+    },
+    {
+      path: "/staff",
+      name: "staff",
+      component: StaffView,
+    },
+    {
+      path: "/office",
+      name: "office",
+      component: OfficeView,
+    },
+    {
+      path: "/others",
+      name: "others",
+      component: OthersView,
     },
   ],
 });
