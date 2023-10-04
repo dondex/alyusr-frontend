@@ -8,13 +8,13 @@
               <h3>Position: {{ jobDetails.title }}</h3>
               <p>UUID: {{ jobDetails.uuid }}</p>
               <p>Posted By: {{ jobDetails.posted_by }}</p>
-              <p>Posted At: {{ jobDetails.created_at }}</p>
+              <p>Posted On: {{ jobDetails.created_at }}</p>
               <button class="btn btn-primary">Apply Now</button>
             </div>
             <div class="col-md-6 desc-wrapper">
               <!-- Use v-html to render HTML content -->
               <p>Description:</p>
-              <div v-html="jobDetails.desription" class="description-content"></div>
+              <div v-html="jobDetails.description" class="description-content"></div>
             </div>
           </div>
         </div>
