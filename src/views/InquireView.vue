@@ -36,8 +36,12 @@
                                 <input type="email" class="form-control" v-model="company_no">
                             </div>
                             <div class="col-12 mt-2">
+                                <label>Inquiry Documents</label>
+                                <input type="file" class="form-control" name="inquiry_document" id="inquiry_document">
+                            </div>
+                            <div class="col-12 mt-2">
                                 <label>Message</label>
-                                <textarea class="form-control" v-model="description"></textarea>
+                                <textarea class="form-control" rows="10" v-model="description"></textarea>
                             </div>
                             <div class="col-12 mt-3">
                                 <button type="button" class="btn btn-success w-100" v-on:click="submit">Submit Inquiry</button>
@@ -60,12 +64,13 @@ export default {
             phone: '',
             email: '',
             company_no: '',
+            inquiry_document: '',
             description: '',
         };
     },
     methods: {
         submit() {
-            const fileInput = document.getElementById('resume');
+            const fileInput = document.getElementById('inquiry_document');
             const formInput = new FormData();
 
             formInput.append('name', this.name);
@@ -73,6 +78,7 @@ export default {
             formInput.append('email', this.email);
             formInput.append('company_no', this.company_no);
             formInput.append('description', this.description);
+            formInput.append('inquiry_document', fileInput.files[0]);
 
             axios.post('/api/inquiry/' + this.agencyId, formInput)
                 .then(response => {
