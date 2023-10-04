@@ -8,7 +8,7 @@
                             <h1 class="text-white">Available Jobs</h1>
                         </div>
                         <div v-for="(jobs) in this.jobs" :key="jobs.id" class="p-3 my-2 text-dark bg-white" style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
-                            <h4 class="text-black">{{ jobs.title }}</h4>
+                            <router-link :to="{ name: 'job-details', params: { uuid: jobs.uuid } }"><h4 class="text-black">{{ jobs.title }}</h4></router-link> 
                             <div>
                                 <span class="mr-5">Posted On: {{ jobs.created_at }}</span>
                                 <span class="mr-2">Posted By: {{ jobs.posted_by }}</span>

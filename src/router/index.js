@@ -8,6 +8,7 @@ import ContactView from "../views/ContactView.vue";
 import ApplicationView from "../views/ApplicationView.vue";
 import InquireView from "../views/InquireView.vue";
 import ViewJobs from "../views/jobs/ViewJobs.vue";
+import JobDetails from "../views/jobs/JobDetails.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -56,6 +57,12 @@ const router = createRouter({
       path: "/jobs",
       name: "jobs",
       component: ViewJobs,
+    },
+    {
+      path: "/jobs/get/:uuid",
+      name: "job-details",
+      component: JobDetails,
+      props: true,
     },
   ],
 });
