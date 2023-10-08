@@ -49,6 +49,7 @@
                             <li class="nav-item"><router-link class="nav-link" to="/gallery">Gallery</router-link></li>
                             <li class="nav-item"><router-link class="nav-link" to="/contact">Contact</router-link></li>
                         </ul>
+                        <a href="https://portal.yaramay.com/" target="_blank"><button class="btn btn-primary">Admin Portal</button></a> 
                     </div>
                 </div>
             </nav>

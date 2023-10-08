@@ -9,7 +9,9 @@
               <p>UUID: {{ jobDetails.uuid }}</p>
               <p>Posted By: {{ jobDetails.posted_by }}</p>
               <p>Posted On: {{ jobDetails.created_at }}</p>
-              <button class="btn btn-primary">Apply Now</button>
+              <router-link :uuid="jobDetails.uuid" :jobUuid="jobUuid" :to="{ name: 'applyNow', params: { uuid: jobDetails.uuid, agencyId: this.agencyId } }">
+                  <button class="btn btn-primary">Apply Now</button>
+              </router-link>
             </div>
             <div class="col-md-6 desc-wrapper">
               <!-- Use v-html to render HTML content -->
@@ -29,6 +31,7 @@
     data() {
       return {
         jobDetails: {},
+        jobUuid: '',
       };
     },
     mounted() {
@@ -39,6 +42,7 @@
         const jobUuid = this.$route.params.uuid;
         axios.get(`/api/job-post/get/${jobUuid}`).then((res) => {
           this.jobDetails = res.data;
+          this.jobUuid = res.data.uuid; // Set the jobUuid from the API response
         });
       },
     },
@@ -47,9 +51,6 @@
 
 <style scoped>
 
-.attachment .attachment--preview .attachment--jpg img{
-    width: 450px;
-    height: auto;
-}
+
 </style>
   

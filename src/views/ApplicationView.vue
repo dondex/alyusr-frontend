@@ -15,45 +15,48 @@
         </section>
 
         <section>
-            <div class="row justify-content-center mt-5 mb-5">
-                <div class="col-8">
-                    <form action="">
-                        <div class="row">
-                            <div class="col-4 mt-2">
-                                <label>First Name</label>
-                                <input type="text" class="form-control" v-model="first_name">
+            <div class="container">
+                <div class="row mt-5 mb-5">
+                    <div class="col-md-8 offset-md-2">
+                        <form action="">
+                            <div class="row">
+                                <div class="col-4 mt-2">
+                                    <label>First Name</label>
+                                    <input type="text" class="form-control" v-model="first_name">
+                                </div>
+                                <div class="col-4 mt-2">
+                                    <label>Middle Name</label>
+                                    <input type="text" class="form-control" v-model="middle_name">
+                                </div>
+                                <div class="col-4 mt-2">
+                                    <label>Last Name</label>
+                                    <input type="text" class="form-control" v-model="last_name">
+                                </div>
+                                <div class="col-6 mt-2">
+                                    <label>Contact No.</label>
+                                    <input type="text" class="form-control" v-model="contact_number">
+                                </div>
+                                <div class="col-6 mt-2">
+                                    <label>Email</label>
+                                    <input type="email" class="form-control" v-model="email">
+                                </div>
+                                <div class="col-12 mt-2">
+                                    <label>Upload Resume</label>
+                                    <input type="file" class="form-control" name="resume" id="resume">
+                                </div>
+                                <div class="col-12 mt-2">
+                                    <label>Cover Letter</label>
+                                    <textarea class="form-control" rows="10" v-model="cover_letter"></textarea>
+                                </div>
+                                <div class="col-12 mt-3">
+                                    <button type="button" class="btn btn-success w-100" v-on:click="submit">Submit</button>
+                                </div>
                             </div>
-                            <div class="col-4 mt-2">
-                                <label>Middle Name</label>
-                                <input type="text" class="form-control" v-model="middle_name">
-                            </div>
-                            <div class="col-4 mt-2">
-                                <label>Last Name</label>
-                                <input type="text" class="form-control" v-model="last_name">
-                            </div>
-                            <div class="col-6 mt-2">
-                                <label>Contact No.</label>
-                                <input type="text" class="form-control" v-model="contact_number">
-                            </div>
-                            <div class="col-6 mt-2">
-                                <label>Email</label>
-                                <input type="email" class="form-control" v-model="email">
-                            </div>
-                            <div class="col-12 mt-2">
-                                <label>Upload Resume</label>
-                                <input type="file" class="form-control" name="resume" id="resume">
-                            </div>
-                            <div class="col-12 mt-2">
-                                <label>Cover Letter</label>
-                                <textarea class="form-control" rows="10" v-model="cover_letter"></textarea>
-                            </div>
-                            <div class="col-12 mt-3">
-                                <button type="button" class="btn btn-success w-100" v-on:click="submit">Submit</button>
-                            </div>
-                        </div>
-                    </form>
+                        </form>
+                    </div>
                 </div>
             </div>
+            
         </section>
     </div>
 </template>
