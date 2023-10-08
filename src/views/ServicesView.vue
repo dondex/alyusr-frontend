@@ -23,9 +23,8 @@
         <section class="section service-2">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 col-md-6 col-sm-12">
-                        <div class="service-block mb-5">
-                            <img style="width: 650px !important; height: auto !important; object-fit: cover;" src="../assets/images/service/mission-pic.jpg" alt="" class="img-fluid">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="service-block mb-1">
                             <div class="content">
                                 <h4 class="mt-4 mb-2 title-color">Our Mission</h4>
                                 <p class="mb-4">To connect great organizations with even greater and professional people, we strive to deliver what we promise, first time every time!</p>
@@ -33,9 +32,8 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-6 col-md-6 col-sm-12">
-                        <div class="service-block mb-5">
-                            <img style="width: 650px !important; height: auto !important; object-fit: cover;" src="../assets/images/service/visio-pic.jpg" alt="" class="img-fluid">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                        <div class="service-block mb-1">
                             <div class="content">
                                 <h4 class="mt-4 mb-2  title-color">Our Vision</h4>
                                 <p class="mb-4">To be the leading partner that clients and candidates always choose to connect with</p>
@@ -50,9 +48,10 @@
         <section class="section service-2 m-0 p-0">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="col-lg-1"></div>
+                    <div class="col-lg-5 col-md-6 col-sm-6">
                         <div class="service-block mb-5">
-                            <img src="../assets/images/service/intergrity1.jpg" alt="" class="img-fluid">
+                            <!-- <img src="../assets/images/service/intergrity1.jpg" alt="" class="img-fluid"> -->
                             <div class="content">
                                 <h4 class="mt-4 mb-2 title-color">Intergrity</h4>
                                 <p class="mb-4">Inntegrity we adopt the highest ethical standards of our industry, and operate with transparency and trust</p>
@@ -60,25 +59,29 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="col-lg-5 col-md-6 col-sm-6">
                         <div class="service-block mb-5">
-                            <img style="object-fit: cover;" src="../assets/images/service/coop.jpg" alt="" class="img-fluid">
+                            <!-- <img style="object-fit: cover;" src="../assets/images/service/coop.jpg" alt="" class="img-fluid"> -->
                             <div class="content">
                                 <h4 class="mt-4 mb-2  title-color">Community</h4>
                                 <p class="mb-4">We support our non profit clients and charitable organizations through our work</p>
                             </div>
                         </div>
                     </div>
-                    
-                    <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="col-lg-1"></div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3"></div>   
+                    <div class="col-lg-6 col-md-6 col-sm-6">
                         <div class="service-block mb-5">
-                            <img style="object-fit: cover;" src="../assets/images/service/collab2.jpg" alt="" class="img-fluid">
+                            <!-- <img style="object-fit: cover;" src="../assets/images/service/collab2.jpg" alt="" class="img-fluid"> -->
                             <div class="content">
                                 <h4 class="mt-4 mb-2 title-color">Collaboration</h4>
                                 <p class="mb-4">We work as team! We share knowledge, experience and leverage continous improvement for learning</p>
                             </div>
                         </div>
                     </div>
+                    <div class="col-lg-4"></div>
 
                 </div>
             </div>
