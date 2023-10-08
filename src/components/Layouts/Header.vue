@@ -44,9 +44,40 @@
                                     <li><router-link class="dropdown-item" to="/legality">Legality</router-link></li>
                                 </ul>
                             </li>
+
                             <li class="nav-item"><router-link class="nav-link" to="/Jobs">Jobs</router-link></li>
                             <li class="nav-item"><router-link class="nav-link" to="/services">Services</router-link></li>
-                            <li class="nav-item"><router-link class="nav-link" to="/gallery">Gallery</router-link></li>
+
+                            <!-- <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="department.html" id="dropdown02" data-toggle="dropdown"
+                                    aria-haspopup="true" aria-expanded="false">Department <i class="icofont-thin-down"></i></a>
+                                <ul class="dropdown-menu" aria-labelledby="dropdown02">
+                                    <li><a class="dropdown-item" href="department.html">Departments</a></li>
+                                    <li><a class="dropdown-item" href="department-single.html">Department Single</a></li>
+                            
+                                    <li class="dropdown dropdown-submenu dropright">
+                                        <a class="dropdown-item dropdown-toggle" href="#!" id="dropdown0301" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sub Menu</a>
+                    
+                                        <ul class="dropdown-menu" aria-labelledby="dropdown0301">
+                                            <li><a class="dropdown-item" href="index.html">Submenu 01</a></li>
+                                            <li><a class="dropdown-item" href="index.html">Submenu 02</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li> -->
+                            <!-- <li class="nav-item"><router-link class="nav-link" to="/gallery">Gallery</router-link></li> -->
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown"
+                                    aria-haspopup="true" aria-expanded="false">Gallery <i class="icofont-thin-down"></i></a>
+                                <ul class="dropdown-menu" aria-labelledby="dropdown02">
+                                    <li><router-link class="dropdown-item" to="/gallery">All</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/achievements">Achievements</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/events">Events</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/staff">Staff</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/office">Office</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/others">Others</router-link></li>
+                                </ul>
+                            </li>
                             <li class="nav-item"><router-link class="nav-link" to="/contact">Contact</router-link></li>
                         </ul>
                     </div>
