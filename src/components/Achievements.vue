@@ -19,7 +19,7 @@
                     </div>
                     <div class="col-lg-4 col-sm-6">
                         <div class="about-img">
-                        <img src="../assets/images/achievements/ach11.jpg" alt="" class="img-fluid" />
+                        <img src="../assets/images/achievements/ach12.jpg" alt="" class="img-fluid" />
                         <img src="../assets/images/achievements/ach10.jpg" alt="" class="img-fluid mt-4" />
                         </div>
                     </div>
