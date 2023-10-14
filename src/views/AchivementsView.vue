@@ -43,35 +43,25 @@
                     </div>
 
                     <div class="col-lg-4 col-md-12 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach11.jpg"
                         
-                        />
 
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/achievements/ach12.jpg"
                         
                         />
-                    </div>
-
-                    <div class="col-lg-4 mb-4 p-3">
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/achievements/ach13.jpg"
                         
                         />
+                    </div>
+
+                    <div class="col-lg-4 mb-4 p-3">
+                       
 
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/achievements/ach14.jpg"
                         
                         />
-                    </div>
-
-                    <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach15.jpg"
-                        
-                        />
-
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/achievements/ach16.jpg"
                         
@@ -96,18 +86,6 @@
                         />
 
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach20.jpg"
-                        
-                        />
-                    </div>
-
-                    <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach21.jpg"
-                        
-                        />
-
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/achievements/ach22.jpg"
                         
                         />
@@ -118,30 +96,20 @@
                         src="../assets/images/achievements/ach23.jpg"
                         
                         />
-
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach24.jpg"
-                        
-                        />
-                    </div>
-
-                    <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach25.jpg"
-                        
-                        />
-
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach26.jpg"
-                        
-                        />
-                    </div>
-
-                    <div class="col-lg-4 mb-4 p-3">
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/achievements/ach27.jpg"
                         
                         />
+                    </div>
+
+                   
+
+                    <div class="col-lg-4 mb-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/achievements/ach29.jpg"
+                        
+                        />
+
 
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/achievements/ach28.jpg"
@@ -151,24 +119,11 @@
 
                     <div class="col-lg-4 col-md-12 mb-4 p-3">
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach29.jpg"
-                        
-                        />
-
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach30.jpg"
-                        
-                        />
-                    </div>
-
-                    <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/achievements/ach31.jpg"
                         
-                        />
-
+                        />   
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach32.jpg"
+                        src="../assets/images/achievements/ach30.jpg"
                         
                         />
                     </div>
@@ -180,28 +135,29 @@
                         />
 
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach34.jpg"
-                        
-                        />
-                    </div>
-                    <div class="col-lg-4 col-md-12 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach35.jpg"
-                        
-                        />
-
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach36.jpg"
+                        src="../assets/images/achievements/ach32.jpg"
                         
                         />
                     </div>
 
                     <div class="col-lg-4 mb-4 p-3">
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/achievements/ach36.jpg"
+                        
+                        />
+
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/achievements/ach34.jpg"
+                        
+                        />
+                    </div>
+                    <div class="col-lg-4 col-md-12 mb-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/achievements/ach37.jpg"
                         
                         />
 
+                       
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/achievements/ach38.jpg"
                         
@@ -213,13 +169,14 @@
                         src="../assets/images/achievements/ach39.jpg"
                         
                         />
-
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/achievements/ach40.jpg"
                         
                         />
+                       
                     </div>
-                    <div class="col-lg-4 col-md-12 mb-4 p-3">
+
+                    <div class="col-lg-4 mb-4 p-3">
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/achievements/ach41.jpg"
                         
@@ -230,6 +187,14 @@
                         
                         />
                     </div>
+                    <div class="col-lg-4 col-md-12 mb-4 p-3">
+                        
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/achievements/ach47.jpg"
+                        
+                        />
+                       
+                    </div>
 
                     <div class="col-lg-4 mb-4 p-3">
 
@@ -237,10 +202,7 @@
                         src="../assets/images/achievements/ach44.jpg"
                         
                         />
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/achievements/ach47.jpg"
-                        
-                        />
+                       
                     </div>
 
 
