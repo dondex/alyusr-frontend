@@ -34,6 +34,10 @@
                         src="../assets/images/Others/new1.jpg"
                         
                         />
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/Others/ach35.jpg"
+                        
+                        />
                     </div>
                     <div class="col-lg-4 col-md-12 mb-4 p-3">
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"

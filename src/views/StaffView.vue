@@ -37,41 +37,49 @@
                         src="../assets/images/staff/staff1.jpg"
                         
                         />
-                    </div>
-
-                    <div class="col-lg-4 mb-4 p-3">
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/staff/staff2.jpg"
                         
                         />
+                    </div>
+
+                    <div class="col-lg-4 mb-4 p-3">
+                        
 
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/staff/staff3.jpg"
                         
                         />
-                    </div>
-                    <div class="col-lg-4 col-md-12 mb-4 p-3">
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/staff/staff4.jpg"
                         
                         />
+                    </div>
+                    <div class="col-lg-4 col-md-12 mb-4 p-3">
+                       
 
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/staff/staff5.jpg"
                         
                         />
-                    </div>
-
-                    <div class="col-lg-4 mb-4 p-3">
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/staff/staff6.jpg"
                         
                         />
 
+                    </div>
+
+                    <div class="col-lg-4 mb-4 p-3">
+                       
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/staff/staff7.jpg"
                         
                         />
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/staff/staff10.jpg"
+                        
+                        />
+                       
                     </div>
 
                     <div class="col-lg-4 mb-4 p-3">
@@ -79,15 +87,37 @@
                         src="../assets/images/staff/staff8.jpg"
                         
                         />
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/staff/staff11.jpg"
+                        
+                        />
+                       
+                    </div>
+                    <div class="col-lg-4 mb-4 p-3">
+                       
 
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/staff/staff9.jpg"
                         
                         />
-                    </div>
-                    <div class="col-lg-4 col-md-12 mb-4 p-3">
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
-                        src="../assets/images/staff/staff10.jpg"
+                        src="../assets/images/staff/staff12.jpg"
+                        
+                        />
+                   </div>
+                   <div class="col-lg-4 mb-4 p-3">
+                       <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                       src="../assets/images/staff/staff13.jpg"
+                       
+                       />
+                       <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/staff/ach11.jpg"
+                        
+                        />
+                  </div>
+                   <div class="col-lg-4 col-md-12 mb-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/staff/ach15.jpg"
                         
                         />
 
@@ -96,8 +126,39 @@
                         
                         />
                     </div>
+                    <div class="col-lg-4 mb-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/staff/ach20.jpg"
+                        
+                        />
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/staff/ach21.jpg"
+                        
+                        />
+                    </div>
 
                     <div class="col-lg-4 mb-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/staff/ach25.jpg"
+                        
+                        />
+
+                        
+                    </div>
+                    <div class="col-lg-4 mb-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                            src="../assets/images/staff/ach24.jpg"
+                            
+                            />
+                    </div>
+                    <div class="col-lg-4 mb-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/staff/ach26.jpg"
+                        
+                        />
+                    </div>
+
+                   <!-- <div class="col-lg-4 mb-4 p-3">
                         <img class="w-100 shadow-1-strong rounded mb-4 h-50"
                         src="../assets/images/staff/staff12.jpg"
                         
@@ -142,7 +203,7 @@
                         src="../assets/images/staff/staff19.jpg"
                         
                         />
-                    </div>
+                    </div> -->
 
                 </div>
                 <!-- Gallery -->

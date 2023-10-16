@@ -55,7 +55,7 @@
                                 <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="false">Gallery <i class="icofont-thin-down"></i></a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdown02">
-                                    <li><router-link class="dropdown-item" to="/gallery">All</router-link></li>
+                                    <!-- <li><router-link class="dropdown-item" to="/gallery">All</router-link></li> -->
                                     <li><router-link class="dropdown-item" to="/achievements">Achievements</router-link></li>
                                     <li><router-link class="dropdown-item" to="/events">Events</router-link></li>
                                     <li><router-link class="dropdown-item" to="/staff">Staff</router-link></li>
