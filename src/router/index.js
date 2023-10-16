@@ -17,6 +17,7 @@ import EventsView from "../views/EventsView.vue";
 import StaffView from "../views/StaffView.vue";
 import OfficeView from "../views/OfficeView.vue";
 import OthersView from "../views/OthersView.vue";
+import ActivitiesView from "../views/ActivitiesView.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -106,6 +107,11 @@ const router = createRouter({
       path: "/others",
       name: "others",
       component: OthersView,
+    },
+    {
+      path: "/activities",
+      name: "activities",
+      component: ActivitiesView,
     },
   ],
 });

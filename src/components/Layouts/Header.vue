@@ -60,6 +60,7 @@
                                     <li><router-link class="dropdown-item" to="/events">Events</router-link></li>
                                     <li><router-link class="dropdown-item" to="/staff">Staff</router-link></li>
                                     <li><router-link class="dropdown-item" to="/office">Office</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/activities">Activites</router-link></li>
                                     <li><router-link class="dropdown-item" to="/others">Others</router-link></li>
                                 </ul>
                             </li>
