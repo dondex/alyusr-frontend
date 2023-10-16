@@ -6,7 +6,7 @@
             <div class="col-md-6">
               <h1>Job Details</h1>
               <h3>Position: {{ jobDetails.title }}</h3>
-              <p>UUID: {{ jobDetails.uuid }}</p>
+              <!-- <p>UUID: {{ jobDetails.uuid }}</p> -->
               <p>Posted By: {{ jobDetails.posted_by }}</p>
               <p>Posted On: {{ jobDetails.created_at }}</p>
               <router-link :uuid="jobDetails.uuid" :jobUuid="jobUuid" :to="{ name: 'applyNow', params: { uuid: jobDetails.uuid, agencyId: this.agencyId } }">

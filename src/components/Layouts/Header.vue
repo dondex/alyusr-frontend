@@ -16,6 +16,7 @@
                                     <span>Call Now : </span>
                                     <span class="h4 text-white">+966533416292</span>
                                 </a>
+                                <a href="https://portal.yaramay.com/" target="_blank"><button type="button" class="btn btn-primary m-3" style="padding: 5px 10px!important;">login</button></a> 
                             </div>
                         </div>
                     </div>
@@ -48,24 +49,8 @@
                             <li class="nav-item"><router-link class="nav-link" to="/Jobs">Jobs</router-link></li>
                             <li class="nav-item"><router-link class="nav-link" to="/services">Services</router-link></li>
 
-                            <!-- <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="department.html" id="dropdown02" data-toggle="dropdown"
-                                    aria-haspopup="true" aria-expanded="false">Department <i class="icofont-thin-down"></i></a>
-                                <ul class="dropdown-menu" aria-labelledby="dropdown02">
-                                    <li><a class="dropdown-item" href="department.html">Departments</a></li>
-                                    <li><a class="dropdown-item" href="department-single.html">Department Single</a></li>
                             
-                                    <li class="dropdown dropdown-submenu dropright">
-                                        <a class="dropdown-item dropdown-toggle" href="#!" id="dropdown0301" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sub Menu</a>
-                    
-                                        <ul class="dropdown-menu" aria-labelledby="dropdown0301">
-                                            <li><a class="dropdown-item" href="index.html">Submenu 01</a></li>
-                                            <li><a class="dropdown-item" href="index.html">Submenu 02</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li> -->
-                            <!-- <li class="nav-item"><router-link class="nav-link" to="/gallery">Gallery</router-link></li> -->
+                           
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="false">Gallery <i class="icofont-thin-down"></i></a>
@@ -80,7 +65,7 @@
                             </li>
                             <li class="nav-item"><router-link class="nav-link" to="/contact">Contact</router-link></li>
                         </ul>
-                        <a href="https://portal.yaramay.com/" target="_blank"><button class="btn btn-primary">Admin Portal</button></a> 
+                        
                     </div>
                 </div>
             </nav>

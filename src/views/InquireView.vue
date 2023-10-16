@@ -45,7 +45,7 @@
                                     <textarea class="form-control" rows="10" v-model="description"></textarea>
                                 </div>
                                 <div class="col-12 mt-3">
-                                    <button type="button" class="btn btn-success w-100" v-on:click="submit">Submit Inquiry</button>
+                                    <button type="button" class="btn btn-primary w-100" v-on:click="submit">Submit Inquiry</button>
                                 </div>
                             </div>
                         </form>
