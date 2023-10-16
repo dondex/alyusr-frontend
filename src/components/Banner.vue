@@ -38,10 +38,10 @@
                 <img src="../assets/images/bg/hero1.jpg" style="height: 750px; object-fit: auto;" class="d-block w-100 " alt="...">
               </div>
               <div class="carousel-item">
-                <img src="../assets/images/Staff/staff15.jpg" style="height: 750px; object-fit: auto;" class="d-block w-100 " alt="...">
+                <img src="../assets/images/service/mission-pic.jpg" style="height: 750px; object-fit: auto;" class="d-block w-100 " alt="...">
               </div>
               <div class="carousel-item">
-                <img src="../assets/images/Staff/staff19.jpg" style="height: 750px; object-fit: auto;" class="d-block w-100 " alt="...">
+                <img src="../assets/images/service/service-pic1.jpg" style="height: 750px; object-fit: auto;" class="d-block w-100 " alt="...">
               </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
