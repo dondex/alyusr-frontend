@@ -137,11 +137,26 @@ input[type="tel"]:focus {
   background: #30bbd2 !important;
   color: #fff !important;
   border-color: #30bbd2 !important;
+  padding: 10px !important;
 }
 .btn-main-2:hover {
   background: #223a66 !important;
   color: #fff !important;
   border-color: #223a66 !important;
+}
+@media (max-width: 1400px) {
+  .btn.btn-icon i {
+    border-left: 1px solid rgba(255, 255, 255, 0.09) !important;
+    padding-left: 2px !important;
+  }
+}
+@media (max-width: 1200px) {
+  .btn-main-2 {
+    background: #30bbd2 !important;
+    color: #fff !important;
+    border-color: #30bbd2 !important;
+    padding: 5px 25px !important;
+  }
 }
 
 .btn-solid-border {

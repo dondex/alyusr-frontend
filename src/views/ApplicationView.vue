@@ -34,8 +34,8 @@
                                 </div>
                                 <div class="col-12 mt-2">
                                     <label>Job Title</label>
-                                    <select class="form-control" v-model="selectedJobTitle">
-                                        <option v-for="job in jobDetails" :key="job.uuid" :value="job.title">{{ job.title }}</option>
+                                    <select class="form-control" v-model="job_id">
+                                        <option v-for="job in jobDetails" :key="job.uuid" :value="job.uuid">{{ job.title }}</option>
                                     </select>
                                 </div>
                                 <div class="col-6 mt-2">
@@ -80,7 +80,7 @@ export default {
             email: '',
             cover_letter: '',
             accepted_terms_and_condition: 1,
-            selectedJobTitle: '',
+            job_id: '',
             jobDetails: [],
         };
     },
@@ -100,12 +100,20 @@ export default {
             formInput.append('cover_letter', this.cover_letter);
             formInput.append('accepted_terms_and_condition', this.accepted_terms_and_condition);
             formInput.append('resume', fileInput.files[0]);
-            formInput.append('job_title', this.selectedJobTitle);
+            formInput.append('job_id', this.job_id);
 
             axios.post('/api/application/' + this.agencyId, formInput)
-                .then(response => {
+            .then(response => {
                     alert('Your Application has been Submitted!');
-                    this.$router.push({ path: '/' })
+                    this.$router.push({ path: '/' });
+                })
+                .catch(error => {
+                    console.error('Error submitting the application:', error);
+                    if (error.response) {
+                        console.log('Response data:', error.response.data);
+                        console.log('Response status:', error.response.status);
+                    }
+                    // Handle the error and provide feedback to the user if needed.
                 });
         },
         fetchJobTitles() {

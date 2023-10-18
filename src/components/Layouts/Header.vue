@@ -60,19 +60,29 @@
                                     <li><router-link class="dropdown-item" to="/events">Events</router-link></li>
                                     <li><router-link class="dropdown-item" to="/staff">Staff</router-link></li>
                                     <li><router-link class="dropdown-item" to="/office">Office</router-link></li>
-                                    <li><router-link class="dropdown-item" to="/activities">Activites</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/activities">Activities</router-link></li>
                                     <li><router-link class="dropdown-item" to="/others">Others</router-link></li>
                                 </ul>
                             </li>
                             <li class="nav-item"><router-link class="nav-link" to="/contact">Contact</router-link></li>
-                            <li class="nav-item mx-2">
+                            <!-- <li class="nav-item mx-2">
                                 <router-link to="/application" class="btn btn-main-2 btn-icon btn-round-full">
-                                    Apply Now <i class="icofont-simple-right "></i>
+                                    Apply<i class="icofont-simple-right "></i>
                                 </router-link>
                             </li>
                             <li class="nav-item mx-2">
                                 <router-link to="/inquire" class="btn btn-main-2 btn-icon btn-round-full">
-                                    Inquire Now <i class="icofont-simple-right"></i>
+                                    Inquire<i class="icofont-simple-right"></i>
+                                </router-link>
+                            </li> -->
+                            <li class="nav-item mx-2">
+                                <router-link to="/application" class="btn btn-main-2 btn-icon btn-round-full">
+                                    Apply Now
+                                </router-link>
+                            </li>
+                            <li class="nav-item mx-2">
+                                <router-link to="/inquire" class="btn btn-main-2 btn-icon btn-round-full">
+                                    Inquire Now
                                 </router-link>
                             </li>
                         </ul>
