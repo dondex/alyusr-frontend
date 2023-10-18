@@ -65,6 +65,16 @@
                                 </ul>
                             </li>
                             <li class="nav-item"><router-link class="nav-link" to="/contact">Contact</router-link></li>
+                            <li class="nav-item mx-2">
+                                <router-link to="/application" class="btn btn-main-2 btn-icon btn-round-full">
+                                    Apply Now <i class="icofont-simple-right "></i>
+                                </router-link>
+                            </li>
+                            <li class="nav-item mx-2">
+                                <router-link to="/inquire" class="btn btn-main-2 btn-icon btn-round-full">
+                                    Inquire Now <i class="icofont-simple-right"></i>
+                                </router-link>
+                            </li>
                         </ul>
                         
                     </div>
