@@ -9,7 +9,10 @@
               <!-- <p>UUID: {{ jobDetails.uuid }}</p> -->
               <p>Posted By: {{ jobDetails.posted_by }}</p>
               <p>Posted On: {{ jobDetails.created_at }}</p>
-              <router-link :uuid="jobDetails.uuid" :jobUuid="jobUuid" :to="{ name: 'applyNow', params: { uuid: jobDetails.uuid, agencyId: this.agencyId } }">
+              <!-- <router-link :uuid="jobDetails.uuid" :jobUuid="jobUuid" :to="{ name: 'applyNow', params: { uuid: jobDetails.uuid, agencyId: this.agencyId } }">
+                  <button class="btn btn-primary">Apply Now</button>
+              </router-link> -->
+              <router-link  to="/application">
                   <button class="btn btn-primary">Apply Now</button>
               </router-link>
             </div>
