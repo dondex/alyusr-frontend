@@ -32,6 +32,12 @@
                                     <label>Last Name</label>
                                     <input type="text" class="form-control" v-model="last_name">
                                 </div>
+                                <div class="col-12 mt-2">
+                                    <label>Job Title</label>
+                                    <select class="form-control" v-model="selectedJobTitle">
+                                        <option v-for="job in jobDetails" :key="job.uuid" :value="job.title">{{ job.title }}</option>
+                                    </select>
+                                </div>
                                 <div class="col-6 mt-2">
                                     <label>Contact No.</label>
                                     <input type="text" class="form-control" v-model="contact_number">
@@ -74,7 +80,12 @@ export default {
             email: '',
             cover_letter: '',
             accepted_terms_and_condition: 1,
+            selectedJobTitle: '',
+            jobDetails: [],
         };
+    },
+    mounted() {
+        this.fetchJobTitles(); // Fetch job titles when the component is mounted
     },
     methods: {
         submit() {
@@ -89,13 +100,19 @@ export default {
             formInput.append('cover_letter', this.cover_letter);
             formInput.append('accepted_terms_and_condition', this.accepted_terms_and_condition);
             formInput.append('resume', fileInput.files[0]);
+            formInput.append('job_title', this.selectedJobTitle);
 
             axios.post('/api/application/' + this.agencyId, formInput)
                 .then(response => {
                     alert('Your Application has been Submitted!');
                     this.$router.push({ path: '/' })
                 });
-        }
+        },
+        fetchJobTitles() {
+            axios.get('/api/job-post/' + this.agencyId).then((res) => {
+                this.jobDetails = res.data.data;
+            });
+        },
     }
 }
 </script>
