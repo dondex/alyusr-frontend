@@ -28,34 +28,44 @@
                         <img src="../../assets/images/alyusr-logo.png" alt="" class="img-fluid">
                     </router-link>
 
-                    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain"
-                        aria-controls="navbarmain" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="icofont-navigation-menu"></span>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
                     </button>
 
-                    <div class="collapse navbar-collapse" id="navbarmain">
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto">
-                            <li class="nav-item active"><router-link class="nav-link" to="/">Home</router-link></li>
+                            <li class="nav-item my-2"><router-link class="nav-link" to="/">Home</router-link></li>
                             
-                            <li class="nav-item dropdown">
+                            <!-- <li class="nav-item dropdown my-2">
                                 <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="false">About Us <i class="icofont-thin-down"></i></a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdown02">
                                     <li><router-link class="dropdown-item" to="/about">About Al Yusr</router-link></li>
                                     <li><router-link class="dropdown-item" to="/legality">Legality</router-link></li>
                                 </ul>
+                            </li> -->
+
+                            <li class="nav-item dropdown my-2">
+                                <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    About Us<i class="icofont-thin-down"></i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><router-link class="dropdown-item" to="/about">About Al Yusr</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/legality">Legality</router-link></li>
+                                    
+                                </ul>
                             </li>
 
-                            <li class="nav-item"><router-link class="nav-link" to="/Jobs">Jobs</router-link></li>
-                            <li class="nav-item"><router-link class="nav-link" to="/services">Services</router-link></li>
+                            <li class="nav-item my-2"><router-link class="nav-link" to="/Jobs">Jobs</router-link></li>
+                            <li class="nav-item my-2"><router-link class="nav-link" to="/services">Services</router-link></li>
 
                             
                            
-                            <li class="nav-item dropdown">
+                            <!-- <li class="nav-item dropdown my-2">
                                 <a class="nav-link dropdown-toggle" href="" id="dropdown02" data-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="false">Gallery <i class="icofont-thin-down"></i></a>
                                 <ul class="dropdown-menu" aria-labelledby="dropdown02">
-                                    <!-- <li><router-link class="dropdown-item" to="/gallery">All</router-link></li> -->
+
                                     <li><router-link class="dropdown-item" to="/achievements">Achievements</router-link></li>
                                     <li><router-link class="dropdown-item" to="/events">Events</router-link></li>
                                     <li><router-link class="dropdown-item" to="/staff">Staff</router-link></li>
@@ -63,8 +73,26 @@
                                     <li><router-link class="dropdown-item" to="/activities">Activities</router-link></li>
                                     <li><router-link class="dropdown-item" to="/others">Others</router-link></li>
                                 </ul>
+                            </li> -->
+
+                            <li class="nav-item dropdown my-2">
+                                <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Gallery<i class="icofont-thin-down"></i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><router-link class="dropdown-item" to="/achievements">Achievements</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/events">Events</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/staff">Staff</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/office">Office</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/activities">Activities</router-link></li>
+                                    <li><router-link class="dropdown-item" to="/others">Others</router-link></li>
+                                    
+                                </ul>
                             </li>
-                            <li class="nav-item"><router-link class="nav-link" to="/contact">Contact</router-link></li>
+
+
+
+                            <li class="nav-item my-2"><router-link class="nav-link" to="/contact">Contact</router-link></li>
                             <!-- <li class="nav-item mx-2">
                                 <router-link to="/application" class="btn btn-main-2 btn-icon btn-round-full">
                                     Apply<i class="icofont-simple-right "></i>
@@ -76,12 +104,12 @@
                                 </router-link>
                             </li> -->
                             <li class="nav-item mx-2">
-                                <router-link to="/application" class="btn btn-main-2 btn-icon btn-round-full">
+                                <router-link to="/application" class="btn btn-main-2 btn-icon btn-round-full my-2">
                                     Apply Now
                                 </router-link>
                             </li>
                             <li class="nav-item mx-2">
-                                <router-link to="/inquire" class="btn btn-main-2 btn-icon btn-round-full">
+                                <router-link to="/inquire" class="btn btn-main-2 btn-icon btn-round-full my-2">
                                     Inquire Now
                                 </router-link>
                             </li>
