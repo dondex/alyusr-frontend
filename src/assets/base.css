@@ -276,8 +276,8 @@ input[type="tel"]:focus {
   right: 0 !important;
   width: 100% !important;
   height: 100% !important;
-  opacity: 0.9 !important;
-  background: #30bad225 !important;
+  opacity: 0.2 !important;
+  background: #0000008c !important;
 }
 
 .overly-2 {
@@ -338,10 +338,10 @@ a:focus {
   position: relative !important;
 }
 .page-title .block h1 {
-  color: #fff !important;
+  color: #000 !important;
 }
-.page-title .block p {
-  color: #fff !important;
+.page-title .block span {
+  color: #000 !important;
 }
 .page-title .breadcumb-nav {
   margin-top: 60px !important;
@@ -534,7 +534,8 @@ a:focus {
 }
 
 .bg-1 {
-  background: url("./images/bg/header-img.png") no-repeat 50% 50%;
+  background: url("./images/achievements/ach30.jpg") no-repeat;
+  background-position: center 56%;
   background-size: cover;
   position: relative;
 }

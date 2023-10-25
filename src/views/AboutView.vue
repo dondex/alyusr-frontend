@@ -5,9 +5,9 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <div class="block text-center">
-              <span class="text-white">About Us</span>
-              <h1 class="text-capitalize mb-5 text-lg">About Us</h1>
+            <div class="block text-center text-black ">
+              <span class="">About Us</span>
+              <h1 class=" mb-5 text-lg">About Us</h1>
 
               <!-- <ul class="list-inline breadcumb-nav">
                 <li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>
