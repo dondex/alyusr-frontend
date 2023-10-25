@@ -13,18 +13,30 @@
                 </div>
 
                 <div class="row">
-                    <div class="col-md-6">
-                        <img style="object-fit: contain; height: 450px;" class="img-fluid" src="../assets/images/legal1.png" alt="">
+                    <div class="col-md-4">
+                        <img style="object-fit: contain; height: 450px;" class="img-fluid" src="../assets/images/legality/leg3.png" alt="">
                     </div>
-                    <div class="col-md-6">
-                        <img style="object-fit: contain; height: 450px;" class="img-fluid" src="../assets/images/legal2.png" alt="">
+                    <div class="col-md-4">
+                        <img style="object-fit: contain; height: 450px;" class="img-fluid" src="../assets/images/legality/leg3.2.png" alt="">
+                    </div>
+
+                    <div class="col-md-4">
+                        <img style="object-fit: contain; height: 450px;" class="img-fluid" src="../assets/images/legality/leg3.3.png" alt="">
                     </div>
                 </div>
                 <div class="row py-5">
-                    <div class="col-md-12 text-center">
-                        <img style="object-fit: contain; height: 550px;" class="img-fluid" src="../assets/images/legal3.png" alt="">
+                    <div class="col-md-4">
+                        <img style="object-fit: contain; height: 450px;" class="img-fluid" src="../assets/images/legality/leg1.png" alt="">
+                    </div>
+                    <div class="col-md-4">
+                        <img style="object-fit: contain; height: 450px;" class="img-fluid" src="../assets/images/legality/leg2.1.png" alt="">
+                    </div>
+
+                    <div class="col-md-4">
+                        <img style="object-fit: contain; height: 450px;" class="img-fluid" src="../assets/images/legality/leg2.2.png" alt="">
                     </div>
                 </div>
+                
                 <div class="row pt-3">
                     <div class="col-md-3">
                         <router-link

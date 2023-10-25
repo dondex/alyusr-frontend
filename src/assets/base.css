@@ -277,7 +277,7 @@ input[type="tel"]:focus {
   width: 100% !important;
   height: 100% !important;
   opacity: 0.9 !important;
-  background: #30bbd2 !important;
+  background: #30bad225 !important;
 }
 
 .overly-2 {
@@ -722,6 +722,12 @@ a:focus {
 
 .mb--80 {
   margin-bottom: -80px;
+}
+
+body,
+html {
+  height: 100%;
+  background-color: white;
 }
 
 .service {
