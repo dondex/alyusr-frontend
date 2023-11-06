@@ -80,6 +80,30 @@
                         />
                     </div>
 
+                    <div class="col-lg-4 col-md-12 mb-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/Office/office9.jpg"
+                        
+                        />
+
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/Office/office10.jpg"
+                        
+                        />
+                    </div>
+
+                    <div class="col-lg-4 col-md-12 mb-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/Office/office11.jpg"
+                        
+                        />
+
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        src="../assets/images/Office/office12.jpg"
+                        
+                        />
+                    </div>
+
                
                 </div>
                 <!-- Gallery -->

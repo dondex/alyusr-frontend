@@ -102,11 +102,16 @@
                         <img src="../assets/images/partner/part5.png" />
                         <img src="../assets/images/partner/part6.png" />
                         <img src="../assets/images/partner/part7.png" />
-                        <img src="../assets/images/partner/partner1.jpg" /><img src="../assets/images/partner/partner2.jpg" />
+                        <img src="../assets/images/partner/partner1.jpg" />
+                        <img src="../assets/images/partner/partner2.jpg" />
                         <img src="../assets/images/partner/partner3.jpg" />
                         <img src="../assets/images/partner/partner4.jpg" />
                         <img src="../assets/images/partner/partner5.jpg" />
                         <img src="../assets/images/partner/partner6.jpg" />
+                        <img src="../assets/images/partner/partner7.jpg" />
+                        <img src="../assets/images/partner/partner8.jpg" />
+                        <img src="../assets/images/partner/partner9.jpg" />
+                        <img src="../assets/images/partner/partner10.jpg" />
                     </div>
 
                 </div>
