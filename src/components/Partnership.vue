@@ -169,7 +169,7 @@
 
 .logos-slide {
   display: inline-block;
-  animation: 20s slide infinite linear;
+  animation: 30s slide infinite linear;
 }
 
 .logos-slide img {
