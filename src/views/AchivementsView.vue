@@ -7,7 +7,7 @@
                     <div class="col-md-12">
                         <div class="block text-center">
                             <span class="text-white">Gallery</span>
-                            <h1 class="text-capitalize mb-5 text-lg text-white index-99">Achivements</h1>
+                            <h1 class="text-capitalize mb-5 text-lg text-white index-99">Achievements</h1>
 
                             <!-- <ul class="list-inline breadcumb-nav">
                     <li class="list-inline-item"><a href="index.html" class="text-white">Home</a></li>
@@ -207,6 +207,7 @@
 
 
                 </div>
+
                 <!-- Gallery -->
         </div>
     </section>
