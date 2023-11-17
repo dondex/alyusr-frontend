@@ -138,7 +138,7 @@
                     </div>
 
                     <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        <img class="w-100 shadow-1-strong rounded mb-4"
                         src="../assets/images/staff/ach25.jpg"
                         
                         />
@@ -146,13 +146,13 @@
                         
                     </div>
                     <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        <img class="w-100 shadow-1-strong rounded mb-4"
                             src="../assets/images/staff/ach24.jpg"
                             
                             />
                     </div>
                     <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        <img class="w-100 shadow-1-strong rounded mb-4"
                         src="../assets/images/staff/ach26.jpg"
                         
                         />

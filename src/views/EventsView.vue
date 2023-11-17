@@ -30,113 +30,116 @@
                 <div class="row">
 
 
-                    <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                    <div class="col-lg-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 "
                         src="../assets/images/Events/events1.jpg"
                         
                         />
 
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        <img class="w-100 shadow-1-strong rounded  "
                         src="../assets/images/Events/events2.jpg"
                         
                         />
                     </div>
-                    <div class="col-lg-4 col-md-12 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                    <div class="col-lg-4 col-md-12 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 "
                         src="../assets/images/Events/events3.jpg"
                         
                         />
 
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        <img class="w-100 shadow-1-strong rounded  "
                         src="../assets/images/Events/events4.jpg"
                         
                         />
                     </div>
 
-                    <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                    <div class="col-lg-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 "
                         src="../assets/images/Events/events5.jpg"
                         
                         />
 
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        <img class="w-100 shadow-1-strong rounded  "
                         src="../assets/images/Events/events6.jpg"
                         
                         />
                     </div>
 
-                    <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+
+                    <div class="col-lg-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 "
                         src="../assets/images/Events/events7.jpg"
                         
                         />
 
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        <img class="w-100 shadow-1-strong rounded  "
                         src="../assets/images/Events/events8.jpg"
                         
                         />
                     </div>
-                    <div class="col-lg-4 col-md-12 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                    <div class="col-lg-4 col-md-12 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 "
                         src="../assets/images/Events/events9.jpg"
                         
                         />
 
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        <img class="w-100 shadow-1-strong rounded  "
                         src="../assets/images/Events/events10.jpg"
                         
                         />
                     </div>
 
-                    <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                    <div class="col-lg-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 "
                         src="../assets/images/Events/events11.jpg"
                         
                         />
 
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        <img class="w-100 shadow-1-strong rounded "
                         src="../assets/images/Events/events12.jpg"
                         
                         />
                     </div>
 
-                    <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+
+
+                    <div class="col-lg-4  p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 "
                         src="../assets/images/Events/events13.jpg"
                         
                         />
 
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        <img class="w-100 shadow-1-strong rounded  "
                         src="../assets/images/Events/events14.jpg"
                         
                         />
                     </div>
-                    <div class="col-lg-4 col-md-12 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                    <div class="col-lg-4 col-md-12  p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 "
                         src="../assets/images/Events/events15.jpg"
                         
                         />
 
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        <img class="w-100 shadow-1-strong rounded  "
                         src="../assets/images/Events/events16.jpg"
                         
                         />
                     </div>
 
-                    <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                    <div class="col-lg-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 "
                         src="../assets/images/Events/events17.jpg"
                         
                         />
 
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                        <img class="w-100 shadow-1-strong rounded  "
                         src="../assets/images/Events/events18.jpg"
                         
                         />
                     </div>
 
-                    <div class="col-lg-4 mb-4 p-3">
-                        <img class="w-100 shadow-1-strong rounded mb-4 h-50"
+                    <div class="col-lg-4 p-3">
+                        <img class="w-100 shadow-1-strong rounded mb-4 h-100"
                         src="../assets/images/Events/events19.jpg"
                         
                         />

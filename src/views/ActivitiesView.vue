@@ -24,6 +24,118 @@
       <div class="container">
         <!-- Gallery -->
         <div class="row">
+          <!-- act 33 - 50 -->
+          <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act33.jpg"
+            />
+
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act34.jpg"
+            />
+          </div>
+
+          <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act35.jpg"
+            />
+
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act36.jpg"
+            />
+          </div>
+
+          <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act37.jpg"
+            />
+
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act38.jpg"
+            />
+          </div>
+
+          <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act39.jpg"
+            />
+
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act40.jpg"
+            />
+          </div>
+
+          <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act41.jpg"
+            />
+
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act42.jpg"
+            />
+          </div>
+
+          <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act43.jpg"
+            />
+
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act44.jpg"
+            />
+          </div>
+
+          <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act45.jpg"
+            />
+
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act46.jpg"
+            />
+          </div>
+
+          <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act47.jpg"
+            />
+
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act48.jpg"
+            />
+          </div>
+
+          <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act49.jpg"
+            />
+
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act50.jpg"
+            />
+          </div>
+
+
+
+          <!-- act 1 - 32 -->
           <div class="col-lg-4 mb-4 p-3">
             <img
               class="w-100 shadow-1-strong rounded mb-4 h-50"
