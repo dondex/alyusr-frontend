@@ -24,6 +24,57 @@
       <div class="container">
         <!-- Gallery -->
         <div class="row">
+          <!-- act 51 - 59 -->
+          
+
+          <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act55.jpg"
+            />
+
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act56.jpg"
+            />
+          </div>
+
+          <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act57.jpg"
+            />
+
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act58.jpg"
+            />
+          </div>
+
+          <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act51.jpg"
+            />
+
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act52.jpg"
+            />
+          </div>
+
+          <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act53.jpg"
+            />
+
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act54.jpg"
+            />
+          </div>
+
           <!-- act 33 - 50 -->
           <div class="col-lg-4 mb-4 p-3">
             <img
@@ -318,6 +369,18 @@
             />
           </div>
         </div>
+        
+        <div class="col-lg-4 mb-4 p-3">
+            <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act59.jpg"
+            />
+
+            <!-- <img
+              class="w-100 shadow-1-strong rounded mb-4 h-50"
+              src="../assets/images/act/act56.jpg"
+            /> -->
+          </div>
         <!-- Gallery -->
       </div>
     </section>
