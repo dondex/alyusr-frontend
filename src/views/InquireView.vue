@@ -36,10 +36,30 @@
                                     <label>Company No. / Company Registration</label>
                                     <input type="email" class="form-control" v-model="company_no">
                                 </div>
-                                <div class="col-12 mt-2">
-                                    <label>Inquiry Documents</label>
-                                    <input type="file" class="form-control" name="inquiry_document" id="inquiry_document">
+                                <!-- File Input -->
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-6 mt-2">
+                                            <label>Inquiry Documents</label>
+                                            <input type="file" class="form-control" name="inquiry_document" id="inquiry_document">
+                                        </div>
+                                        <div class="col-md-6 mt-2">
+                                            <label>National ID</label>
+                                            <input type="file" class="form-control" name="national_id" id="national_id">
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-md-6 mt-2">
+                                            <label>Company Registration</label>
+                                            <input type="file" class="form-control" name="company_registration" id="company_registration">
+                                        </div>
+                                        <div class="col-md-6 mt-2">
+                                            <label>Other Documents</label>
+                                            <input type="file" class="form-control" name="other_document" id="other_document">
+                                        </div>
+                                    </div>
                                 </div>
+                                <!-- End of File Input -->
                                 <div class="col-12 mt-2">
                                     <label>Message</label>
                                     <textarea class="form-control" rows="10" v-model="description"></textarea>
@@ -68,12 +88,18 @@ export default {
             email: '',
             company_no: '',
             inquiry_document: '',
+            national_id: '',
+            company_registration: '',
+            other_document: '',
             description: '',
         };
     },
     methods: {
         submit() {
             const fileInput = document.getElementById('inquiry_document');
+            const fileInputNationalId = document.getElementById('national_id');
+            const fileInputCompanyRegistration = document.getElementById('company_registration');
+            const fileInputOtherDocument = document.getElementById('other_document');
             const formInput = new FormData();
 
             formInput.append('name', this.name);
@@ -82,6 +108,9 @@ export default {
             formInput.append('company_no', this.company_no);
             formInput.append('description', this.description);
             formInput.append('inquiry_document', fileInput.files[0]);
+            formInput.append('national_id', fileInputNationalId.files[0]);
+            formInput.append('company_registration', fileInputCompanyRegistration.files[0]);
+            formInput.append('other_document', fileInputOtherDocument.files[0]);
 
             axios.post('/api/inquiry/' + this.agencyId, formInput)
                 .then(response => {
