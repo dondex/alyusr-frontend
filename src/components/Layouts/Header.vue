@@ -113,6 +113,19 @@
                                     Inquire Now
                                 </router-link>
                             </li>
+                            
+
+                            <!-- Switch Language -->
+                            <li class="nav-item dropdown my-2">
+                                <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <i class="icofont-world"></i><i class="icofont-thin-down"></i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#" language="english" class="dropdown-item">EN</a></li>
+                                    <li><a href="#" language="arabic" class="dropdown-item">AR</a></li>
+                                </ul>
+                            </li>
+                            <!-- End Switch Language -->
                         </ul>
                         
                     </div>
