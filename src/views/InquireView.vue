@@ -21,47 +21,47 @@
                         <form action="">
                             <div class="row">
                                 <div class="col-12 mt-2">
-                                    <label>Fullname</label>
+                                    <label>Fullname/الاسم الكامل</label>
                                     <input type="text" class="form-control" v-model="name">
                                 </div>
                                 <div class="col-6 mt-2">
-                                    <label>Contact No.</label>
+                                    <label>Contact No. / رقم الاتصال</label>
                                     <input type="text" class="form-control" v-model="phone">
                                 </div>
                                 <div class="col-6 mt-2">
-                                    <label>Email</label>
+                                    <label>Email / البريد الإلكتروني</label>
                                     <input type="email" class="form-control" v-model="email">
                                 </div>
                                 <div class="col-6 mt-2">
-                                    <label>Company No. / Company Registration</label>
+                                    <label>Company No. / Company Registration / رقم الشركة</label>
                                     <input type="email" class="form-control" v-model="company_no">
                                 </div>
                                 <!-- File Input -->
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-6 mt-2">
-                                            <label>Inquiry Documents</label>
+                                            <label>Inquiry Documents/وثائق الاستفسار</label>
                                             <input type="file" class="form-control" name="inquiry_document" id="inquiry_document">
                                         </div>
                                         <div class="col-md-6 mt-2">
-                                            <label>National ID</label>
+                                            <label>National I.d/ الهويه الوطنيه</label>
                                             <input type="file" class="form-control" name="national_id" id="national_id">
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-md-6 mt-2">
-                                            <label>Company Registration</label>
+                                            <label>Company  Registration/تسجيل الشريكة</label>
                                             <input type="file" class="form-control" name="company_registration" id="company_registration">
                                         </div>
                                         <div class="col-md-6 mt-2">
-                                            <label>Other Documents</label>
+                                            <label>Other documents/وثائق أخرى</label>
                                             <input type="file" class="form-control" name="other_document" id="other_document">
                                         </div>
                                     </div>
                                 </div>
                                 <!-- End of File Input -->
                                 <div class="col-12 mt-2">
-                                    <label>Message</label>
+                                    <label>Message/رسالة</label>
                                     <textarea class="form-control" rows="10" v-model="description"></textarea>
                                 </div>
                                 <div class="col-12 mt-3">
